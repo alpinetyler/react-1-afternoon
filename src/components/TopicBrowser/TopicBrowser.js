@@ -7,6 +7,7 @@ import FilterString from '../Topics/FilterString'
 import Palindrome from '../Topics/Palindrome'
 import Sum from '../Topics/Sum'
 
+//set up the render of the final doc
 export default class TopicBrowser extends Component {
   render() {
     return (

@@ -5,6 +5,7 @@ export default class FilterObject extends Component {
     constructor(){
         super();
 
+        //set the values to update the state
         this.state = {
             employees: [
                 {

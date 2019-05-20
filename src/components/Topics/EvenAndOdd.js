@@ -5,6 +5,7 @@ export default class EvenAndOdd extends Component {
   constructor() {
     super();
 
+    //set the variables for the state
     this.state = {
       evenArray: [],
       oddArray: [],
